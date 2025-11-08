@@ -1,0 +1,9 @@
+# Data Source
+
+Telco Customer Churn dataset (IBM sample).
+
+Original dataset is not included in this repository due to size and license constraints.
+You can download it from Kaggle and place it in this folder.
+
+Example source:
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
